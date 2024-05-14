@@ -1,5 +1,5 @@
 
-Botium Toys Security Audit
+**Botium Toys Security Audit**
 Welcome to the Botium Toys Security Audit repository! This repository contains the findings and recommendations from a demo security audit conducted for Botium Toys, a fictitious company specializing in toy manufacturing and retail.
 
 Files Included
